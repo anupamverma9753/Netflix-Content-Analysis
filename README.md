@@ -96,5 +96,5 @@ Netflix-Content-Analysis/
 
 ## 👤 Author
 - Name: Anupam Verma
-- LinkedIn: linkedin.com/in/anupamverma97705371/
+- LinkedIn: linkedin.com/in/anupamverma97705371/ 
 - Email: anupamverma9753@gmail.com
